@@ -6,8 +6,8 @@ function footer(){
         <footer className="page-footer">
             <div className="footer-copyright">
                 <div className="container">
-                 © 2014 Copyright Text
-                <a className="grey-text text-lighten-4 right" href="#!">More Links</a>
+                    © 2018 Is When I Made This
+                    <a className="grey-text text-lighten-4 right" rel="noopener noreferrer" target="_blank"href="https://github.com/AnthonyC93/Clicky-Game">Github Repo</a>
                 </div>
             </div>
         </footer>

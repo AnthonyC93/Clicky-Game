@@ -10,9 +10,6 @@ function navbar(props){
                     <a href="#" className="brand-logo">Clicky Game!</a>
                     <ul id="nav-mobile" className="right hide-on-med-and-down">
                         <li>
-                            <h5>Score: {props.currentScore}</h5>
-                        </li>
-                        <li>
                             <h5>Top Score: {props.topScore}</h5>
                         </li>                        
                     </ul>
